@@ -19,7 +19,7 @@ Student Digital PortfolioEstablished a foundational professional presence across
 
 Module 3:
 
-Coding & CollaborationDemonstrated technical and collaborative skills by completing a HackerRank coding challenge and building a functional Google Form quiz for peer assessment. Artifact: task-3-platforms/Quiz Link: https://forms.gle/RqfL8E2wskhkNWQz6
+Coding & CollaborationDemonstrated technical and collaborative skills by completing a HackerRank coding challenge and building a functional Google Form quiz for peer assessment. Artifact: task-3-platforms/Quiz Link: https://docs.google.com/forms/d/1p8AK9oO1xB1xAJ5tPqX0A9mynGU18NI-O_vq6TKBHck/edit
 
 Module 4:
 
